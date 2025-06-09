@@ -14,21 +14,25 @@
 
 ## 🧩 Projects
 
-- **Self-Designed 16-bit CPU**  
+- [Self-Designed 16-bit CPU](https://github.com/J-M-W0/CPU)
+  
   A basic 16-bit CPU built from scratch using digital logic principles. Includes support for custom instruction sets, ALU, and memory-mapped I/O.  
-  [GitHub Repo](https://github.com/J-M-W0/CPU)
 
-- **Self-Designed Assembler**  
+
+- [Self-Designed Assembler](https://github.com/J-M-W0/Assembler)
+
   A fully functional assembler tailored to the custom 16-bit CPU, capable of translating human-readable assembly code into binary instructions.  
-  [GitHub Repo](https://github.com/J-M-W0/Assembler)
 
-- **Self-Designed Compiler in Pascal Language**  
+
+- [Self-Designed Compiler in Pascal Language](https://github.com/J-M-W0/Compiler-in-Pascal)
+
   A high-level language compiler written in Pascal that translates simple source code into assembly for the custom CPU, including parsing, symbol tables, and code generation.  
-  [GitHub Repo](https://github.com/J-M-W0/Compiler-in-Pascal)
 
-- **Self-Designed Tetris Game**  
+
+- [Self-Designed Tetris Game](https://github.com/J-M-W0/Tetris-in-C)
+
   A Tetris clone written in C using basic graphics libraries, focusing on game loop logic, block collision detection, and scorekeeping.  
-  [GitHub Repo](https://github.com/J-M-W0/Tetris-in-C)
+
 
   
 ## 🌱 Currently Learning
