@@ -1,7 +1,9 @@
 # 👋 Hi, I’m Junzhe WANG
 
 💻 Computer Science student at FAU Erlangen-Nürnberg.
+
 🌍 Global developer – studied, worked, and volunteered across Asia, Europe, and the US.
+
 🛠️ Passionate about backend development, open standards, and clean, maintainable code.
 
 ## 🚀 What I Do
